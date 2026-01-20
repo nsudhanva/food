@@ -20,6 +20,7 @@ const sidebars = {
         'concepts/vector-databases',
         'concepts/embeddings',
         'concepts/mcp-protocol',
+        'concepts/langchain',
       ],
     },
     {
@@ -52,6 +53,18 @@ const sidebars = {
       items: [
         'deployment/docker-compose',
         'deployment/production-tips',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'File Walkthrough',
+      items: [
+        'walkthrough/overview',
+        'walkthrough/backend-main',
+        'walkthrough/backend-chat',
+        'walkthrough/backend-retriever',
+        'walkthrough/frontend-usechat',
+        'walkthrough/frontend-api',
       ],
     },
   ],
