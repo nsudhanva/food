@@ -289,8 +289,13 @@ flowchart TB
 | Database | PostgreSQL |
 | LLM | OpenAI gpt-4o-mini |
 | Tools | MCP Python SDK |
+| Documentation | Docusaurus |
 
 ---
+
+> [!TIP]
+> **Build this app from scratch!**
+> I've included a comprehensive step-by-step guide. Run `cd docs && bun start` to view it.
 
 ## Project Structure
 
